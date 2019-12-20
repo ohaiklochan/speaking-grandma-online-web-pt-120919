@@ -14,10 +14,10 @@
 
 grandma = "Hard of hearing"
 
-if grandma == "CAPITALS"
-  puts "NO, NOT SINCE 1938!"
-elseif grandma == "I LOVE YOU GRANDMA!"
+if you say == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else grandma == "not capitals"
+elseif you say == "shouting"
+  puts "NO, NOT SINCE 1938!"
+else you say == "anything else"
   puts "HUH?! SPEAK UP, SONNY!"
 end
