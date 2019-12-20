@@ -13,4 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-if 
+if SPEAK == 
