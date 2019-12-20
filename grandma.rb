@@ -14,10 +14,10 @@
 
 
 
-if SPEAK
+if grandma == "SPEAK"
   puts "NO, NOT SINCE 1938!"
-elseif SPEAK == "I LOVE YOU GRANDMA!"
+elseif grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else speak
+else grandma == "speak"
   puts "HUH?! SPEAK UP, SONNY!"
 end
