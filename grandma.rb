@@ -14,10 +14,10 @@
 
 grandma = "Hard of hearing"
 
-if you_say == "I LOVE YOU GRANDMA!"
+if you == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-elseif you_say == "shouting"
+elseif you == "shouting"
   puts "NO, NOT SINCE 1938!"
-else you_say == "anything else"
+else you == "anything else"
   puts "HUH?! SPEAK UP, SONNY!"
 end
