@@ -12,5 +12,11 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
+grandma = speaks
 
-if SPEAK == 
+if SPEAK == capitals
+  puts "NO, NOT SINCE 1938!"
+elseif SPEAK == "I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU TOO PUMPKIN!"
+else SPEAK == not capitals
+  puts "HUH?! SPEAK UP, SONNY!"
