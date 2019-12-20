@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-grandma == "Hard of hearing"
+grandma = "Hard of hearing"
 
 if grandma == "SPEAK"
   puts "NO, NOT SINCE 1938!"
