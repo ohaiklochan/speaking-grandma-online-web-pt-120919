@@ -14,9 +14,9 @@
 
 grandma = speaks
 
-if SPEAK == capitals
+if SPEAK
   puts "NO, NOT SINCE 1938!"
 elseif SPEAK == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else SPEAK == not capitals
+else speak
   puts "HUH?! SPEAK UP, SONNY!"
